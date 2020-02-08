@@ -1,5 +1,28 @@
 # LineBot 今天吃什麼
 
+更改至
+https://github.com/iYunghui/TOC-Project-2020
+
+## Setup
+### Prerequisite
+* Python 3.6
+* Pipenv
+* LineBOT
+
+### Install Dependency
+```sh
+pip3 install pipenv
+pipenv --three
+pipenv install
+pipenv shell
+```
+
+### Run the sever
+
+```sh
+python3 app.py
+```
+
 ## Finite State Machine
 ![fsm](https://i.imgur.com/1FnqOuf.png)
 
