@@ -36,3 +36,6 @@ python3 app.py
     * eat：輸入位置，依位置顯示推薦的餐廳資料
   * contribute：貢獻餐廳資料
     * upload：依照格式上傳餐廳資料
+
+![](https://i.imgur.com/DRDjsCB.jpg)
+![](https://i.imgur.com/ICF7IOq.jpg)
